@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Button Color Changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Anupam Sai Sistla**
 
-**Name of your app** is an app that... [TODO] 
+**Button Color Changer** 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -20,14 +20,23 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Favorite apps and their features:
+- Instagram: Reels, Stories
+- Linkedin: Connect with professionals, find jobs
+- Phone: Make calls, save contacts
+
+An app i'd like to make:
+- I would like to build an app called FocusPod, designed to help users manage their screen time by combining productivity techniques with social accountability. The app would allow users to set 
+  daily screen time limits for different apps, initiate focus sessions where certain apps are blocked, and join group "focus pods" where friends or colleagues work simultaneously and encourage 
+ each other.
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+- The main challenge faced was pushing the code to github, as I had initially set it up incorrectly
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Anupam Sai Sistla]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
